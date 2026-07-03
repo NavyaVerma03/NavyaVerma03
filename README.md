@@ -1,4 +1,4 @@
-````md
+md
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Navya+Verma;Java+Developer+☕;Frontend+Web+Developer+🌐;Future+AI+%26+ML+Engineer+🤖;Always+Learning+Something+New+🚀" />
 </h1>
@@ -188,7 +188,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:FF0080,50:7B2FF7,100:00E5FF"/>
 
 </p>
-````
+
 
 
 
