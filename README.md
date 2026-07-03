@@ -1,323 +1,196 @@
-<div align="center">
+````md
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Navya+Verma;Java+Developer+☕;Frontend+Web+Developer+🌐;Future+AI+%26+ML+Engineer+🤖;Always+Learning+Something+New+🚀" />
+</h1>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Navya Verma
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Welcome%20To%20My%20GitHub&fontSize=45&fontAlignY=40&animation=fadeIn&color=0:00E5FF,50:7B2FF7,100:FF0080"/>
+</p>
 
-### 💻 Java Developer | 🌐 Full Stack Learner | 🤖 AI & Machine Learning Enthusiast
+<h3 align="center">
+💙 Passionate Developer • Java Enthusiast • AI & ML Learner • Open Source Explorer 💙
+</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:4F8EF7,100:00C9A7&height=230&section=header&text=Welcome%20to%20My%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
-
-</div>
-
----
-
-# 🌸 About Me
-
-✨ Passionate about building beautiful and useful software.
-
-🎓 BCA Graduate & MCA Aspirant
-
-☕ Learning Java, DSA & Full Stack Development
-
-🤖 Exploring Artificial Intelligence & Machine Learning
-
-🌱 Always learning new technologies
-
-🎯 Goal: Become a Software Engineer at a top product company.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=NavyaVerma03&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/NavyaVerma03?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/NavyaVerma03?style=for-the-badge"/>
+</p>
 
 ---
 
-# 🚀 Tech Stack
+# 🚀 About Me
 
-### Programming Languages
+```yaml
+👤 Name: Navya Verma
+🎓 Degree: Bachelor of Computer Applications (BCA)
+📍 Country: India 🇮🇳
 
-<p>
+💻 Currently Learning:
+  - Java
+  - Data Structures & Algorithms
+  - Frontend Development
+  - React
+  - AI & Machine Learning
 
-<img src="https://skillicons.dev/icons?i=java"/>
+🎯 Career Goal:
+  Become a Software Engineer and AI Engineer
 
-<img src="https://skillicons.dev/icons?i=python"/>
+❤️ Interests:
+  - Coding
+  - UI/UX Design
+  - Web Development
+  - Open Source
+  - Artificial Intelligence
 
-<img src="https://skillicons.dev/icons?i=js"/>
+✨ Motto:
+  "Code. Learn. Build. Repeat."
+```
 
-<img src="https://skillicons.dev/icons?i=html"/>
+---
 
-<img src="https://skillicons.dev/icons?i=css"/>
+# 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,react,bootstrap,git,github,vscode,mysql&perline=6"/>
 
 </p>
 
 ---
 
-### Frameworks & Tools
+# 🌱 Currently Working On
 
-<p>
+- 🚀 Java Projects
+- 📚 Data Structures & Algorithms
+- 🌐 Frontend Web Development
+- 🤖 AI & Machine Learning
+- 💼 Building Professional Portfolio
 
-<img src="https://skillicons.dev/icons?i=react"/>
+---
 
-<img src="https://skillicons.dev/icons?i=git"/>
+# 📊 GitHub Statistics
 
-<img src="https://skillicons.dev/icons?i=github"/>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NavyaVerma03&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://skillicons.dev/icons?i=idea"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavyaVerma03&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 💡 Current Focus
+# 🔥 GitHub Streak
 
-✅ Java Programming
+<p align="center">
 
-✅ Data Structures & Algorithms
+<img src="https://streak-stats.demolab.com?user=NavyaVerma03&theme=tokyonight&hide_border=true"/>
 
-✅ Full Stack Development
-
-✅ AI & Machine Learning
-
-✅ Open Source
+</p>
 
 ---
 
-# 🌟 Developer Mindset
+# 🏆 GitHub Trophies
 
-> "Great software isn't built in a day. It's built one commit at a time."
+<p align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=NavyaVerma03&theme=algolia&row=2&column=4&no-frame=true"/>
 
-<div align="center">
-
-### ⭐ Thanks for visiting my profile ⭐
-
-</div>
+</p>
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 Contribution Graph
 
-<div align="center">
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NavyaVerma03&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NavyaVerma03&theme=tokyo-night&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=NavyaVerma03&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</div>
+</p>
 
 ---
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NavyaVerma03&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NavyaVerma03&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-<h3 align="center">🌦 SkyCast Weather</h3>
-
-<div align="center">
-
-Real-Time Weather App with beautiful UI, search functionality and responsive design.
-
-JavaScript • HTML • CSS • API
-
-</div>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">☕ Java DSA Programs</h3>
-
-<div align="center">
-
-Collection of Java programs covering Arrays, Searching, Sorting and Logic Building.
-
-Java
-
-</div>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<h3 align="center">🎓 Student Management</h3>
-
-<div align="center">
-
-Desktop application using Python & SQLite.
-
-Python • SQLite
-
-</div>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">🌐 Portfolio Website</h3>
-
-<div align="center">
-
-Modern Glassmorphism Portfolio with smooth animations.
-
-HTML • CSS • JavaScript
-
-</div>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 💻 Coding Profiles
-
-<div align="center">
-
-<a href="https://github.com/NavyaVerma03">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 📈 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=NavyaVerma03&style=for-the-badge&color=blueviolet"/>
-
-</div>
-
----
-
-# 💬 Quote
-
-<div align="center">
-
-> **"Every expert was once a beginner. Every line of code brings me one step closer to my dream."**
-
-</div>
-
 
 # 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
 
-<img src="https://raw.githubusercontent.com/NavyaVerma03/NavyaVerma03/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
-</div>
-
----
-
-# 🌟 Fun Facts
-
-<div align="center">
-
-🎯 I love solving coding problems.
-
-☕ Coffee + Music + Coding = Perfect Day
-
-💙 Passionate about Clean UI & Modern Design
-
-🚀 Learning something new every single day.
-
-</div>
+</p>
 
 ---
 
-# 🎓 Currently Learning
+# ✨ Featured Projects
 
-<div align="center">
+🚀 SkyCast Weather
 
-| 💻 Technology | 📚 Status |
-|:-------------:|:--------:|
-| Java | ⭐⭐⭐⭐⭐ |
-| Data Structures | ⭐⭐⭐⭐☆ |
-| HTML & CSS | ⭐⭐⭐⭐⭐ |
-| JavaScript | ⭐⭐⭐⭐☆ |
-| React | ⭐⭐⭐☆☆ |
-| SQL | ⭐⭐⭐⭐☆ |
-| Git & GitHub | ⭐⭐⭐⭐☆ |
-| AI & Machine Learning | ⭐⭐⭐☆☆ |
+☕ Java Console Projects
 
-</div>
+🌐 Frontend Web Projects
+
+📚 Data Structures & Algorithms
+
+🤖 AI & ML Learning Projects
 
 ---
 
-# 🌍 Let's Connect
+# 📚 Learning Roadmap
 
-<div align="center">
+✅ HTML
+
+✅ CSS
+
+✅ JavaScript
+
+✅ Java
+
+🔄 React
+
+🔄 DSA
+
+🔄 AI & Machine Learning
+
+🔄 Backend Development
+
+---
+
+# 💡 Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
 
 <a href="https://github.com/NavyaVerma03">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR-EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+</p>
 
 ---
 
-# 💖 Thanks for Visiting
+<p align="center">
 
-<div align="center">
+### ⭐ If you like my work, don't forget to Star my repositories! ⭐
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=1&pause=1000000&color=6C63FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+GitHub+Profile!"/>
+</p>
 
-⭐ If you like my work, don't forget to **Star ⭐ my repositories.**
+<p align="center">
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:FF0080,50:7B2FF7,100:00E5FF"/>
 
----
+</p>
+````
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,50:4F8EF7,100:00C9A7"/>
 
-</div>
 
 
