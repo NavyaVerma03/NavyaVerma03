@@ -133,7 +133,7 @@ md
 
 🤖 AI & ML Learning Projects
 
----
+
 
 # 📚 Learning Roadmap
 
@@ -153,7 +153,7 @@ md
 
 🔄 Backend Development
 
----
+
 
 # 💡 Random Dev Quote
 
@@ -163,7 +163,7 @@ md
 
 </p>
 
----
+
 
 # 🌐 Connect With Me
 
@@ -175,7 +175,7 @@ md
 
 </p>
 
----
+
 
 <p align="center">
 
@@ -188,6 +188,8 @@ md
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:FF0080,50:7B2FF7,100:00E5FF"/>
 
 </p>
+`
+
 
 
 
