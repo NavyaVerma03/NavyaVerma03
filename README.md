@@ -1,20 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Navya%20Verma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=0,2,12,20&text=Navya%20Verma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 # 👋 Hi, I'm Navya Verma
 
-### ☕ Java Backend Developer • 💻 DSA Enthusiast • 🚀 Future Software Engineer
+### 💖 Java Backend Developer | 💻 DSA Enthusiast | 🚀 Future Software Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Java+Backend+Developer;Spring+Boot+Learner;DSA+Problem+Solver;Always+Learning+New+Things+✨">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=2500&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=Welcome+to+My+GitHub+Profile!;Java+Backend+Developer;Spring+Boot+Learner;LeetCode+Problem+Solver;Always+Learning+New+Things+💜;Building+Awesome+Projects+✨"/>
 
-<br>
+<img src="https://komarev.com/ghpvc/?username=NavyaVerma03&label=Profile%20Views&style=for-the-badge&color=ff69b4"/>
 
-<img src="https://komarev.com/ghpvc/?username=NavyaVerma03&label=Profile%20Views&style=for-the-badge&color=6C63FF"/>
+<img src="https://img.shields.io/github/followers/NavyaVerma03?style=for-the-badge&color=9D4EDD"/>
 
-<img src="https://img.shields.io/github/followers/NavyaVerma03?style=for-the-badge&color=7F5AF0"/>
-
-<img src="https://img.shields.io/github/stars/NavyaVerma03?style=for-the-badge&color=00B4D8"/>
+<img src="https://img.shields.io/github/stars/NavyaVerma03?style=for-the-badge&color=C77DFF"/>
 
 </div>
 
@@ -22,17 +20,26 @@
 
 # 🌸 About Me
 
-💙 Passionate Java Backend Developer
+💖 Hello! I'm **Navya Verma**, a passionate Computer Science student from India.
 
-🌱 Currently Learning Java, Spring Boot & Data Structures & Algorithms
+- ☕ Java Backend Developer
+- 💻 DSA Problem Solver
+- 🌱 Learning Spring Boot
+- 🗄️ SQL & Database
+- 🚀 REST API Development
+- 📚 Continuous Learner
+- 🎯 Goal: Software Engineer at a Top Product Company
 
-💻 Love Building Clean & Efficient Applications
+---
 
-📚 Solving LeetCode Problems Daily
+# 🚀 Current Focus
 
-🎯 Goal: Become a Software Engineer at a Top Product-Based Company
-
-✨ Always Learning New Technologies
+- Java Programming
+- Data Structures & Algorithms
+- Spring Boot
+- SQL & MySQL
+- Backend Development
+- Git & GitHub
 
 ---
 
@@ -50,9 +57,9 @@
 
 ### 🌐 Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -68,66 +75,83 @@
 
 ---
 
+# 📂 Featured Projects
+
+## 📚 LeetCode DSA
+Daily Java DSA solutions with clean and optimized code.
+
+## 🌐 Portfolio Website
+Modern responsive portfolio showcasing my skills.
+
+## ☀ Solar System
+Interactive HTML, CSS & JavaScript project.
+
+## 🏫 College Management System
+Java-based desktop application.
+
+## 🧮 Calculator
+Simple and responsive calculator.
+
+---
+
 # 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NavyaVerma03&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=NavyaVerma03&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavyaVerma03&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavyaVerma03&layout=compact&theme=tokyonight"/>
 
-</div>
+</p>
 
 ---
 
 # 🔥 GitHub Streak
 
-<div align="center">
+<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=NavyaVerma03&theme=tokyonight"/>
 
-</div>
+</p>
 
 ---
 
 # 🏆 GitHub Trophies
 
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=NavyaVerma03&theme=tokyonight&no-frame=true"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+✅ Solve 500+ LeetCode Problems
+
+✅ Master Java Backend Development
+
+✅ Build Real-World Projects
+
+✅ Learn Spring Boot
+
+✅ Crack Top Product-Based Companies
+
+---
+
+# 💬 Quote
+
+> **"Dream Big. Stay Consistent. Keep Coding. Success Will Follow."** 💜
+
+---
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=NavyaVerma03&theme=algolia&row=2&column=4"/>
+## 💖 Thanks for Visiting My Profile 💖
 
-</div>
+⭐ Don't forget to Star my repositories if you like my work.
 
----
-
-# 🎯 Current Focus
-
-✅ Java Backend Development
-
-✅ Spring Boot
-
-✅ REST APIs
-
-✅ SQL & Database
-
-✅ Data Structures & Algorithms
-
-✅ LeetCode Problem Solving
-
----
-
-# ✨ Quote
-
-> **"Success doesn't come from what you do occasionally. It comes from what you do consistently."**
-
----
-
-<div align="center">
-
-### 💙 Thanks for Visiting My Profile 💙
-
-⭐ If you like my work, don't forget to Star my repositories.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=260&color=gradient&customColorList=12,20,24,30"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=280&color=gradient&customColorList=0,2,12,20"/>
 
 </div>
