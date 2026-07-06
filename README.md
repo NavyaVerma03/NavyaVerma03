@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=0,2,12,20&text=Navya%20Verma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Navya%20Verma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:F72585,50:B5179E,100:7209B7"/>
 
 # 👋 Hi, I'm Navya Verma
 
@@ -152,6 +152,6 @@ Simple and responsive calculator.
 
 ⭐ Don't forget to Star my repositories if you like my work.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=280&color=gradient&customColorList=0,2,12,20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=280&color=0:F72585,50:B5179E,100:7209B7"/>
 
 </div>
